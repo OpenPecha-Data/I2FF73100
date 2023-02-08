@@ -1,0 +1,47 @@
+id: cc5b6391ed684e298a643f4bfa17a222
+annotation_type: index
+revision: '00001'
+annotations:
+  eac2f2a061de416cbf68bf1ab36cd347:
+    base: 63F0.txt
+    Chapters:
+    - title: CHAPTER ONE. RĀVANA, LORD OF LANKĀ, ASKS FOR INSTRUCTION
+      span:
+        start: 0
+        end: 18938
+    - title: CHAPTER TWO. COLLECTION OF ALL THE DHARMAS
+      span:
+        start: 18939
+        end: 130245
+    - title: CHAPTER THREE. ON IMPERMANENCY
+      span:
+        start: 130246
+        end: 203127
+    - title: CHAPTER FOUR. ON INTUITIVE UNDERSTANDING
+      span:
+        start: 203128
+        end: 208471
+    - title: CHAPTER FIVE. ON THE DEDUCTION OF THE PERMANENCY OF TATHAGATAHOOD
+      span:
+        start: 208472
+        end: 211177
+    - title: CHAPTER SIX. ON MOMENTARINESS
+      span:
+        start: 211178
+        end: 230755
+    - title: CHAPTER SEVEN. ON TRANSFORMATION
+      span:
+        start: 230756
+        end: 234484
+    - title: CHAPTER EIGHT. ON MEAT-EATING
+      span:
+        start: 234485
+        end: 248439
+    - title: CHAPTER NINE. THE DHĀRANĪS
+      span:
+        start: 248440
+        end: 250898
+    - title: SAGĀTHAKAM
+      span:
+        start: 250899
+        end: 347456
